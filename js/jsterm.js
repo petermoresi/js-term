@@ -507,6 +507,8 @@
           .enqueue('ls -l')
           .enqueue('cd ..')
           .enqueue('tree')
+          .enqueue('cat resume')
+          .enqueue('gimp images/image.png')
           .enqueue('ls')
           .begin();
    });

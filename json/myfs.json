@@ -5,23 +5,17 @@
       {
          "name": "README",
          "type": "text",
-         "contents": "My name is Peter Moresi. I am a Software Engineer at <a class=\"exec\" target=\"_blank\" href=\"https://www.google.com\">PennyMac</a>. This is my website.<br/>You can find the source code to make your very own on <a class=\"exec\" target=\"_blank\" href=\"http://github.com/petermoresi/jsterm\">GitHub</a>.<br/><br/>If you need help, type \"help\".<br/><br/>You can contact me at <a class=\"exec\" href='mailto:peter.moresi@gmail.com'>peter.moresi@gmail.com</a> or follow me on Twitter <a class=\"exec\" target=\"_blank\" href=\"https://twitter.com/petermoresi\">@petermoresi</a>."
+         "contents": "My name is Peter Moresi. I am a Software Engineer at <a class=\"exec\" target=\"_blank\" href=\"https://www.pennymacusa.com\">PennyMac</a>. This is my website.<br/>You can find the source code to make your very own on <a class=\"exec\" target=\"_blank\" href=\"http://github.com/petermoresi/jsterm\">GitHub</a>.<br/><br/>If you need help, type \"help\".<br/><br/>You can contact me at <a class=\"exec\" href='mailto:peter.moresi@gmail.com'>peter.moresi@gmail.com</a> or follow me on Twitter <a class=\"exec\" target=\"_blank\" href=\"https://twitter.com/petermoresi\">@petermoresi</a>."
       },
       {
          "name": "resume",
          "type": "exec",
-         "contents": "downloads/resume.pdf"
+         "contents": "http://linkedin.com/in/petermoresi"
       },
       {
          "name": "projects",
          "type": "dir",
          "contents": [
-            {
-               "name": "LokoApps",
-               "type": "exec",
-               "contents": "http://lokoapps.com",
-               "description": "I make apps using C++ (yes, <a class=\"exec\" target=\"_blank\" href=\"https://www.madewithmarmalade.com\">C++</a>!). Download Gravity Evolved for free - <a class=\"exec\" target=\"_blank\" href=\"https://itunes.apple.com/us/app/gravity-evolved/id627359405?mt=8\">iOS</a>, <a class=\"exec\" target=\"_blank\" href=\"https://play.google.com/store/apps/details?id=com.lokoapps.gravityevolved\">Android</a>"
-            },
             {
                "name": "GitHub",
                "type": "exec",
@@ -47,10 +41,10 @@
          "type": "dir",
          "contents": [
             {
-               "name": "pic.jpg",
+               "name": "image.png",
                "type": "img",
-               "contents": "images/pic.jpg",
-               "caption": "(I'm the one on the right.)"
+               "contents": "images/image.png",
+               "caption": "(At home coding.)"
             }
          ]
       }
