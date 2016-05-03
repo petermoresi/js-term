@@ -31,7 +31,7 @@
             {
                "name": "fluxury",
                "type": "exec",
-               "contents": "https://github.com/FunctionFoundry/fluxry",
+               "contents": "https://github.com/FunctionFoundry/fluxury",
                "description": "A fork of Flux 2.0.2 for (state, action) => state"
             }
          ]
